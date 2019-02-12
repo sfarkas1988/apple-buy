@@ -1,0 +1,26 @@
+
+
+
+
+
+apple = {
+  'iPhone': {
+    'X': {},
+    '8',
+    '8 Plus',
+    'XS',
+    'XS Max',
+    'XR'
+  },
+
+  'Apple Watch': {
+    'Series 3',
+    'Series 4',
+  },
+  'MacBook Pro': {
+    '2016',
+    '2017',
+    '2018'
+  }
+
+}
